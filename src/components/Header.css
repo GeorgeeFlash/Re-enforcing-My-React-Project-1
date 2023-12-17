@@ -1,0 +1,32 @@
+.header { 
+    background-color: rgba(0, 0, 0, 0.719);
+}
+.inner-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.25rem;
+}
+
+.header p {
+    padding: 0.3rem;
+    margin-right: .5rem;
+    font-weight: 600;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 0.6rem;
+}
+
+.logo h3 {
+    margin-left: .35rem;
+    color: rgba(33, 166, 228, 0.644);
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+.react-logo {
+    width: 40px;
+    height: 40px;
+}

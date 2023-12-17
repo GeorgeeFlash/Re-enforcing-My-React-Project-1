@@ -1,0 +1,13 @@
+.page {
+    margin: 0.67rem;
+    margin-top: 1rem;
+}
+
+.page ul > li {
+    margin: .3rem;
+}
+
+.page ul > li::marker {
+    color: rgba(23, 97, 235, 0.651);
+    font-size: 1.2rem;
+}
