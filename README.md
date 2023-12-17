@@ -1,6 +1,6 @@
 # Simple React Static Page
 
-It pretty much doesn't do anything but display a static page
+It pretty much doesn't do anything but display a static page on some fun fact about React
 
 Here is a screenshot of the page 👇🏾
 
